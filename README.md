@@ -60,7 +60,7 @@
 ---
 
 ## 📫 আমার সাথে যোগাযোগ (Global Connectivity)
-- 📧 **ইমেইল:** [আপনার ইমেইল এখানে]
+- 📧 **ইমেইল:** sujanmolla09@gmail.com
 - 📍 **অবস্থান:** ঠাকুরগাঁও, বাংলাদেশ (Vision 2030 Base)
 - 🌍 **ব্যবসায়িক পরিচয়:** M.L CONSUMER (Verified D-U-N-S Entity)
 
