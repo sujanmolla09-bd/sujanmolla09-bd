@@ -67,7 +67,7 @@
 ## 📫 আমার সাথে যোগাযোগ (Global Connectivity)
 - 📧 **ইমেইল:** sujanmolla09@gmail.com
 - **অফিশিয়াল ব্লগ:** [sujanmolla.blogspot.com](https://sujanmolla.blogspot.com)
-- 📍 **অবস্থান:** ঠাকুরগাঁও- ৫১০১, বাংলাদেশ। (Vision 2030 Base)
+- 📍 **অবস্থান:** ঠাকুরগাঁও- ৫১০১, বাংলাদেশ (Vision 2030 Base)
 - 🌍 **ব্যবসায়িক পরিচয়:** M.L CONSUMER (Verified D-U-N-S Entity)
 
 ---
