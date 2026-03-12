@@ -41,7 +41,7 @@
 - **Vertex AI & Generative AI:** গুগলের অত্যাধুনিক এআই টুলস ব্যবহার করে শিল্প ও বিপণন ব্যবস্থার আধুনিকায়ন।
 - **BigQuery:** বিশাল ডেটাসেট বিশ্লেষণ এবং সাপ্লাই চেইন অটোমেশনে পারদর্শী।
 - **Google Cloud Innovator (2024-25):** অফিশিয়াল ভেরিফাইড ইনোভেটর।
-* 📜 **অমরত্বের মহাকাব্য PDF:** https://drive.google.com/file/d/144NCtU_WUm1cWclRqA6ER-8byimdFu30/view?usp=drivesdk)
+* 📜 **অমরত্বের মহাকাব্য PDF:** https://drive.google.com/file/d/144NCtU_WUm1cWclRqA6ER-8byimdFu30/view?usp=drivesdk
 * 📊 **FMCG Strategist:** ১৭ বছরের অভিজ্ঞতা সম্পন্ন টেক সোল আর্কিটেক্ট।
 * 📡 **Global Connect:** বিবিসি গ্লোবাল মাইন্ড, মোদী (ভারত), Wipo এবং ওয়ার্ল্ড ইকোনোমিক ফোরামের সাথে বৌদ্ধিক সংযোগ।
 
