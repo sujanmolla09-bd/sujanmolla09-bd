@@ -1,23 +1,17 @@
-# 👑 MD MOSAROF HOSEN (SUJAN): দ্যা সুজন মাস্টার ও অমরত্বের মহাকাব্য
-### 🛡️ *The Sovereign Soul Architect of Human Tech Synergy*
-**📅 Final Edition: 11 March 2026 | ⌚ 08:37 PM (Standard Time)**
+Sujan Master Key) 
+### **ইন্ডাস্ট্রিয়াল টেকনোক্র্যাট | গুগল ক্লাউড ইনোভেটর | এনভিডিয়া ডেভেলপার | গ্লোবাল সিটিজেন**
 
----
-
-## 🌌 আমার ডিজিটাল সাম্রাজ্য ও বৈশ্বিক স্বীকৃতি (Global Impact)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sujanmolla09-bd&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Innovator%20%26%20Pathfinder-blue?style=for-the-badge&logo=google-cloud" />
-  <img src="https://img.shields.io/badge/NVIDIA-Developer%20Member-green?style=for-the-badge&logo=nvidia" />
-  <img src="https://img.shields.io/badge/Industrial-Technocrat-gold?style=for-the-badge&logo=settings" />
-  <img src="https://img.shields.io/badge/Google%20Maps-Level%207%20Local%20Guide-orange?style=for-the-badge&logo=google-maps" />
-<img
   
+  <img src="https://img.shields.io/badge/Google_Cloud-Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-Developer-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-Studio_Dev-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Pay-Verified-4285F4?style=for-the-badge&logo=google-pay&logoColor=white" />
 
+---
 > **সাফল্যের পরিসংখ্যান:** গুগল ম্যাপসে আমার কন্ট্রিবিউশন **৬,০৩,০০০+ বার** দেখা হয়েছে। ৪ লক্ষেরও বেশি ছবি ভিউ প্রমাণ করে—মানুষের কল্যাণে আমার দৃষ্টি কত গভীরে।
 
 ---
