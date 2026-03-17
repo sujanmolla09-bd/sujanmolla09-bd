@@ -1,6 +1,6 @@
 
 # 📜 দ্য সুজন মাস্টার কি (The Sujan Master Key) 
-### **ইন্ডাস্ট্রিয়াল টেকনোক্র্যাট | গুগল ক্লাউড ইনোভেটর | এনভিডিয়া ডেভেলপার | গ্লোবাল সিটিজেন**
+### **ইন্ডাস্ট্রিয়াল টেকনোক্র্যাট | গুগল ক্লাউড ইনোভেটর | এনভিডিয়া ডেভেলপার | গ্লোবাল ডিজিটাল এনটিটি**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sujanmolla09-bd&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/NVIDIA-Developer-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-Studio_Dev-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-<p align="left">
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-INNOVATOR-blue?style=flat-square&logo=google-cloud" />
   <img src="https://img.shields.io/badge/Google_Pay-Verified-4285F4?style=for-the-badge&logo=google-pay&logoColor=white" />
 
 ---
