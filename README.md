@@ -25,6 +25,7 @@
 - **Vertex AI & Generative AI:** গুগলের অত্যাধুনিক এআই টুলস ব্যবহার করে শিল্প ও বিপণন ব্যবস্থার আধুনিকায়ন।
 - **BigQuery:** বিশাল ডেটাসেট বিশ্লেষণ এবং সাপ্লাই চেইন অটোমেশনে পারদর্শী।
 - **Google Cloud Innovator (2024-25):** অফিশিয়াল ভেরিফাইড ইনোভেটর।
+- **NVIDIA Developer:** অফিসিয়াল ডেবলোপার সদস্য।
 
 ### 🌍 আন্তর্জাতিক ও সরকারি নেটওয়ার্ক (Global Citizenship)
 - **BBC Global Minds:** বৈশ্বিক মতামত প্রদানকারী এবং বিবিসির সক্রিয় সদস্য।
@@ -34,7 +35,6 @@
 - **Qatar Airways:** প্রিভিলেজ ক্লাব মেম্বার।
 - **WORLD ECONOMIC FORUM:** নিবন্ধিত সদস্য।
 - **Verified Merchant Identity:** (Google Pay & Wallet)
-- **NVIDIA Developer:** অফিসিয়াল ডেবলোপার সদস্য।
 ---
 
 ## 💼 পেশাগত লিগ্যাসি (Professional Legacy - 17 Years)
