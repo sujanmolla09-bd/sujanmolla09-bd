@@ -38,7 +38,7 @@
 - **OSS (One Stop Service):** BIDA-র ওয়ান স্টপ সার্ভিস পোর্টালের ভেরিফাইড ব্যবহারকারী।
 - **Qatar Airways:** প্রিভিলেজ ক্লাব মেম্বার।
 - **WORLD ECONOMIC FORUM:** নিবন্ধিত সদস্য।
-- **Verified Merchant Identity:** (Google Pay & Wallet)
+- **Verified Merchant Identity:** (Google Pay & Wallet) গ্লোবাল পেমেন্ট ইকোসিস্টেম। 
 ---
 
 ## 💼 পেশাগত লিগ্যাসি (Professional Legacy - 17 Years)
