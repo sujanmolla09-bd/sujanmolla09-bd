@@ -34,6 +34,7 @@
 - **Qatar Airways:** প্রিভিলেজ ক্লাব মেম্বার।
 - **WORLD ECONOMIC FORUM:** নিবন্ধিত সদস্য।
 - **Verified Merchant Identity:** (Google Pay & Wallet)
+- **NVIDIA Developer:** অফিসিয়াল ডেবলোপার সদস্য।
 ---
 
 ## 💼 পেশাগত লিগ্যাসি (Professional Legacy - 17 Years)
